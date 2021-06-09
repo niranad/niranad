@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @niranad
+- 👋 Hi, I’m Adeniran John Olukanni
 - 👀 I’m interested in web and software programming
 - 🌱 I’m currently learning full-stack web development
 - 💞️ I’m looking to collaborate on any interesting open-source and individual projects
