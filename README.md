@@ -3,12 +3,12 @@
 <details>
   <summary>Tech stack</summary>
   <hr/>
-  <p align="center"><strong>JavaScript, React.js, Node.js, HTML, CSS, Python, Java</strong><p>
+  <h4 align="center"><strong>JavaScript, React.js, Node.js, HTML, CSS, Python, Java</strong><h4>
  </details>
  <details>
   <summary>Contact</summary>
   <hr/>
-  <p align="center"><a href="adesite67@gmail.com" style="color: lightred; border: 1px solid cream">Email</a>
+  <p align="center"><a href="adesite67@gmail.com" style="color: lightred; border: 1px solid cream">:email:</a>
   </p>
  </details>
  
