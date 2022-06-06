@@ -11,6 +11,15 @@
   <p align="center">:email: <a href="mailto:">adesite67@gmail.com</a></p>
    <p align="center"><a href="https://wa.me/2348130998619">Whatsapp</a></p>
    <p align="center">:phone: +2348130998619</p>
-   <p align="center"><a href="https://www.linkedin.com/in/adeniran-olukanni-25b7311b7>Linkedin</a></p>
- </details>
- 
+   <p align="center"><a href="https://www.linkedin.com/in/adeniran-olukanni-25b7311b7">Linkedin</a></p>
+    </details>
+ <details>
+   <summary>Interests</summary>
+   <ol>
+     <li><strong>Web development</strong></li>
+     <li><strong>Object-oriented design patterns</strong></li>
+     <li><strong>Systems Architecture</strong></li>
+     <li><strong>Big Data</strong></li>
+     <li><strong>Devops</strong></li>
+   </ol>
+    </details>
