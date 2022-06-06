@@ -17,9 +17,9 @@
    <summary>Interests</summary>
    <hr/>
    <div>
-     <p align="center"><strong>Web development</strong></p>
-     <p align="center"><strong>Object-oriented design patterns</strong></p>
-     <p align="center"><strong>Systems Architecture</strong></p>
+     <p align="center"><strong>Web Development</strong></p>
+     <p align="center"><strong>Object-oriented Design Patterns</strong></p>
+     <p align="center"><strong>Systems Design</strong></p>
      <p align="center"><strong>Big Data</strong></p>
      <p align="center"><strong>Devops</strong></p>
    </div>
