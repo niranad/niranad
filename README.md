@@ -8,7 +8,7 @@
  <details>
   <summary>Contact</summary>
   <hr/>
-  <p align="center"><a href="adesite67@gmail.com" style="color: lightred; border: 1px solid cream">:email:</a>
+  <p align="center"><a href="mailto:">adesite67@gmail.com</a>
   </p>
  </details>
  
