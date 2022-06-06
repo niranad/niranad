@@ -1,5 +1,5 @@
 <h1 align="center">Hi :wave:, I'm Adeniran John Olukanni</h1>
-<h4 align="center">a full-stack software engineer with 2 years coding experience</h4>
+<p align="center"><strong>a full-stack software engineer with 2 years coding experience</strong></p>
 <details>
   <summary>Tech stack</summary>
   <hr/>
@@ -15,7 +15,8 @@
     </details>
  <details>
    <summary>Interests</summary>
-   <ol>
+   <hr/>
+   <ul align="center">
      <li><strong>Web development</strong></li>
      <li><strong>Object-oriented design patterns</strong></li>
      <li><strong>Systems Architecture</strong></li>
