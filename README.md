@@ -16,11 +16,11 @@
  <details>
    <summary>Interests</summary>
    <hr/>
-   <ul align="center">
-     <li align="center"><strong>Web development</strong></li>
-     <li align="center"><strong>Object-oriented design patterns</strong></li>
-     <li align="center"><strong>Systems Architecture</strong></li>
-     <li align="center"><strong>Big Data</strong></li>
-     <li align="center"><strong>Devops</strong></li>
-   </ol>
+   <div>
+     <p align="center"><strong>Web development</strong></p>
+     <p align="center"><strong>Object-oriented design patterns</strong></p>
+     <p align="center"><strong>Systems Architecture</strong></p>
+     <p align="center"><strong>Big Data</strong></p>
+     <p align="center"><strong>Devops</strong></p>
+   </div>
     </details>
