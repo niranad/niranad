@@ -1,11 +1,16 @@
 <h1 align="center">Hi :wave:, I'm Adeniran John Olukanni</h1>
-<p align="center"><strong>a full-stack software engineer with 2 years coding experience</strong></p>
+<p align="center"><strong>a software engineer with 2 years experience</strong></p>
 <details>
-  <summary>Tech stack</summary>
+  <summary>Programming Languages</summary>
   <hr/>
-  <h4 align="center"><strong>JavaScript, React.js, Node.js, SQL, HTML, CSS, Python, Java</strong><h4>
+  <h4 align="center"><strong>JavaScript, SQL, Python, Java</strong><h4>
  </details>
  <details>
+<details>
+  <summary>Tools and Technologies</summary>
+  <h4 align="center">HTML, CSS, npm, yarn, React.js, Redux, Next.js, D3.js</h4>
+  <h4 align="center">Node.js, Express.js, MongoDB and Mongoose, MySQL, PostgreSQL, AWS</h4>
+ </details>
   <summary>Contact</summary>
   <hr/>
   <p align="center">:email: <a href="mailto:" target="_blank">adesite67@gmail.com</a></p>
@@ -16,11 +21,10 @@
  <details>
    <summary>Interests</summary>
    <hr/>
-   <div>
+   <div> 
      <p align="center"><strong>Web Development</strong></p>
-     <p align="center"><strong>Object-oriented Design Patterns</strong></p>
-     <p align="center"><strong>Systems Design</strong></p>
-     <p align="center"><strong>Big Data</strong></p>
-     <p align="center"><strong>Devops</strong></p>
+     <p align="center"><strong>Systems Architecture</strong></p>
+     <p align="center"><strong>Artificial Intelligence</strong></p>
+     <p align="center"><strong>Data Analysis</strong></p>
    </div>
     </details>
