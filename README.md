@@ -25,6 +25,7 @@
    <hr/>
    <div> 
      <p align="center"><strong>Web Development</strong></p>
+     <p align="center"><strong>Secure Coding</strong></p>
      <p align="center"><strong>Systems Architecture</strong></p>
      <p align="center"><strong>Artificial Intelligence</strong></p>
      <p align="center"><strong>Data Analysis</strong></p>
