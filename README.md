@@ -1,5 +1,5 @@
 <h1 align="center">Hi :wave:, I'm Adeniran</h1>
-<p align="center" style="background-color: lightgreen;"><strong>a software engineer with experience in web development</strong></p>
+<p><strong>I am a software engineer with experience in web development. I am passionate about learning, collaboration and problem solving.</strong></p>
 <details>
   <summary>Programming Languages</summary>
   <hr/>
