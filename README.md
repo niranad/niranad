@@ -1,5 +1,5 @@
 <h1 align="center">Hi :wave:, I'm Adeniran</h1>
-<p><strong>I am a software engineer with experience in web development. I am passionate about learning, collaboration and problem solving.</strong></p>
+<p><strong>I am a full-stack software engineer with experience in web development. I am passionate about learning, sharing knowledge and problem solving.</strong></p>
 <details>
   <summary>Programming Languages</summary>
   <hr/>
@@ -27,7 +27,6 @@
      <p align="center"><strong>Programming</strong></p>
      <p align="center"><strong>Web Development</strong></p>
      <p align="center"><strong>Secure Coding</strong></p>
-     <p align="center"><strong>Collaborating</strong></p>
      <p align="center"><strong>Cloud Computing</strong></p>
      <p align="center"><strong>Artificial Intelligence</strong></p>
      <p align="center"><strong>Data Analysis</strong></p>
