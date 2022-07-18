@@ -1,5 +1,5 @@
 <h1 align="center">Hi :wave:, I'm Adeniran John Olukanni</h1>
-<p align="center"><strong>a software engineer with 2 years experience</strong></p>
+<p align="center"><strong>a software engineer with 2 years programming experience</strong></p>
 <details>
   <summary>Programming Languages</summary>
   <hr/>
