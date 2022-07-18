@@ -3,7 +3,7 @@
 <details>
   <summary>Programming Languages</summary>
   <hr/>
-  <h4 align="center"><strong>JavaScript, SQL, Python, Java</strong><h4>
+  <h4 align="center"><strong>JavaScript, SQL, Java, Python</strong><h4>
  </details>
 <details>
   <summary>Tools and Technologies</summary>
@@ -24,9 +24,11 @@
    <summary>Interests</summary>
    <hr/>
    <div> 
+     <p align="center"><strong>Programming</strong></p>
      <p align="center"><strong>Web Development</strong></p>
      <p align="center"><strong>Secure Coding</strong></p>
-     <p align="center"><strong>Systems Architecture</strong></p>
+     <p align="center"><strong>Collaborating</strong></p>
+     <p align="center"><strong>Cloud Computing</strong></p>
      <p align="center"><strong>Artificial Intelligence</strong></p>
      <p align="center"><strong>Data Analysis</strong></p>
    </div>
