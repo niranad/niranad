@@ -9,7 +9,7 @@
   <summary>Tools and Technologies</summary>
   <hr/>
   <h4 align="center">HTML, CSS, npm, yarn, React.js, Redux, Next.js, D3.js</h4>
-  <h4 align="center">Node.js, Express.js, MongoDB and Mongoose, MySQL, PostgreSQL, AWS</h4>
+  <h4 align="center">Node.js, Express.js, MongoDB and Mongoose, MySQL, PostgreSQL, AWS, CircleCI, Spring, Django</h4>
  </details>
  <details>
   <summary>Contact</summary>
