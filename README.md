@@ -1,5 +1,5 @@
 <h1 align="center">Hi :wave:, I'm Adeniran</h1>
-<p><strong>I am a full-stack software engineer with experience in web development. I am passionate about learning, sharing knowledge and problem solving.</strong></p>
+<p><strong>I am a full-stack software engineer passionate about solving problems with efficient and secure algorithms.</strong></p>
 <details>
   <summary>Programming Languages</summary>
   <hr/>
