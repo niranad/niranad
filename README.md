@@ -3,13 +3,13 @@
 <details>
   <summary>Programming Languages</summary>
   <hr/>
-  <h4 align="center"><strong>JavaScript, SQL, Java, Python</strong><h4>
+  <h4 align="center"><strong>JavaScript, SQL, Java, Python, C#</strong><h4>
  </details>
 <details>
   <summary>Tools and Technologies</summary>
   <hr/>
-  <h4 align="center">HTML, CSS, npm, yarn, React.js, Angular, Redux, Next.js, D3.js</h4>
-  <h4 align="center">Node.js, Express.js, MongoDB and Mongoose, MySQL, PostgreSQL, AWS, CircleCI, Spring</h4>
+  <h4 align="center">HTML, CSS, npm, yarn, React.js, React Native, Flutter, Angular, Redux, Next.js, D3.js</h4>
+  <h4 align="center">Node.js, Express.js, MongoDB and Mongoose, MySQL, PostgreSQL, AWS, CircleCI, Spring, .Net</h4>
  </details>
  <details>
   <summary>Contact</summary>
