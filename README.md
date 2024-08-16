@@ -18,7 +18,7 @@
    <p align="center"><a href="https://wa.me/2348130998619" target="_blank">Whatsapp</a></p>
    <p align="center">:phone: +2348130998619</p>
    <p align="center"><a href="https://www.linkedin.com/in/adeniran-olukanni-25b7311b7">Linkedin</a></p>
-   <p align="center"><a href="https://twitter.com/@a_j_olukanni">twitter</a></p>
+   <p align="center"><a href="https://twitter.com/@netwhat_infotec">twitter</a></p>
   </details>
  <details>
    <summary>Interests</summary>
